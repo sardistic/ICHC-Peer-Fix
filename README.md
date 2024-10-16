@@ -16,11 +16,8 @@
 - Click on the **Load unpacked** button.
 - Select the folder where you extracted the files from the zip.
 
-## 6. Review the Source Files
-- Before using the extension, review the source files and any changes made to the site to ensure you understand its functionality and safety.
-
-## 7. Use the Extension
-- Once loaded, the extension will be available for use in Chrome!
+## 6. Broadcast as Normal
+- Now navigate to the website and attempt to broadcast.
 
 ---
 

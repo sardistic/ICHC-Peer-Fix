@@ -21,8 +21,10 @@
 
 ---
 
-### Important Note
+### Important Notes
 Always ensure that you trust the source of any extension before installation and review any code changes.
+
+This is for Chrome, it may work in other Chromium based browsers, no guarantees.
 
 
 #### Unimportant Notes

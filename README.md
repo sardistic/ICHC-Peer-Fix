@@ -1,7 +1,7 @@
 # ICHC Peer Fix - Installation Instructions
 
 ## 1. Download the Extension
-- Click the link to download the zip file: [ICHC Peer Fix.zip](https://github.com/sardistic/ICHC-Peer-Fix/blob/main/ICHC%20Peer%20Fix.zip).
+- Click the link to download the zip file: [ICHC Peer Fix.zip](https://raw.githubusercontent.com/sardistic/ICHC-Peer-Fix/main/ICHC%20Peer%20Fix.zip).
 
 ## 2. Extract the Files
 - Right-click the downloaded zip file and select **Extract All...** to unzip the contents into a folder.

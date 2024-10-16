@@ -1,23 +1,13 @@
 # ICHC Peer Fix - Installation Instructions
 
-## 1. Download the Extension
-- Click the link to download the zip file: [ICHC Peer Fix.zip](https://raw.githubusercontent.com/sardistic/ICHC-Peer-Fix/main/ICHC%20Peer%20Fix.zip).
+1. **Download and Extract**: 
+   - [Download ICHC Peer Fix.zip](https://raw.githubusercontent.com/sardistic/ICHC-Peer-Fix/main/ICHC%20Peer%20Fix.zip), then right-click and choose **Extract All**.
 
-## 2. Extract the Files
-- Right-click the downloaded zip file and select **Extract All...** to unzip the contents into a folder.
+2. **Install in Chrome**:
+   - Go to `chrome://extensions/`, enable **Developer mode**, and click **Load unpacked** to select the extracted folder.
 
-## 3. Open Chrome Extensions Page
-- Open Google Chrome and type `chrome://extensions/` in the address bar, then press **Enter**.
-
-## 4. Enable Developer Mode
-- In the top right corner of the Extensions page, toggle the **Developer mode** switch to **ON**.
-
-## 5. Load Unpacked Extension
-- Click on the **Load unpacked** button.
-- Select the folder where you extracted the files from the zip.
-
-## 6. Broadcast as Normal
-- Now navigate to the website and attempt to broadcast.
+3. **Broadcast as Normal**:
+   - Now navigate to the website and attempt to broadcast.
 
 ---
 

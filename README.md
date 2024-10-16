@@ -23,3 +23,9 @@
 
 ### Important Note
 Always ensure that you trust the source of any extension before installation and review any code changes.
+
+
+#### Unimportant Notes
+I know there is an error message that occurs "Error in event handler: TypeError: Cannot read properties of undefined (reading 'executeScript') at chrome.webNavigation.onCompleted.addListener.url.hostContains (chrome-extension:/*/background.js:5:26)"
+I don't care, it works, I don't want to spend more time on it.
+There are probably far better methods to fix this, and ones that don't require re-reloading the un-modified javascripts in the scripts directory, also don't care.
